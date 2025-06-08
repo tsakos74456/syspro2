@@ -1,0 +1,2 @@
+/home/billt/c-programs/hw2-tsakos74456/testing@127.0.0.8:8081 /home/billt/c-programs/hw2-tsakos74456/testing2@127.0.0.3:8082
+/home/billt/c-programs/hw2-tsakos74456/testing3@127.0.0.8:8085 /home/billt/c-programs/hw2-tsakos74456/testing4@127.0.0.3:8090

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "functions_nfs_console.h": "c",
+        "in.h": "c",
+        "cstdlib": "c",
+        "type_traits": "c"
+    }
+}
